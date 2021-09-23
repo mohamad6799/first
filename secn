@@ -1,4 +1,0 @@
-i = 0
-array = {'mohamad','ali','mahmoud'}
-while i < array 
-print(array)
