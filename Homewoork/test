@@ -1,0 +1,4 @@
+name = "Mohamad Mahmoud"
+age = 18
+thework = 'programng'
+print(name)
