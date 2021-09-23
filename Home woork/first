@@ -1,0 +1,6 @@
+m = 10
+t = 2
+z = 3
+ml =4
+all=m+z+t+ml
+print(all)
